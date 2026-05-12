@@ -7,3 +7,4 @@ langchain-chroma
 sentence-transformers
 mtranslate
 pypdf
+protobuf==4.25.1
