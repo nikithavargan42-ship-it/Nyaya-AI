@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+mtranslate
+pypdf
