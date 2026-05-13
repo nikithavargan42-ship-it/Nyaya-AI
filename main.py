@@ -8,7 +8,7 @@ from mtranslate import translate
 
 # --- CONFIG ---
 st.set_page_config(page_title="Nyaya-AI", page_icon="⚖️")
-GROQ_API_KEY = "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" # Get from console.groq.com
+GROQ_API_KEY = st.secrets["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"]# Get from console.groq.com
 
 # --- LOAD DATA ---
 @st.cache_resource
